@@ -24,7 +24,7 @@
 </head>
 
 <body class="{bodyClass} skin-{{{if bootswatchSkin}}}{bootswatchSkin}{{{else}}}noskin{{{end}}}">
-
+  TEST
 	<!-- IMPORT partials/offcanvas.tpl -->
 
 	<!-- IMPORT partials/mobile-nav.tpl -->
